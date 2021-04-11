@@ -42,8 +42,8 @@ For any questions releated to the project please contact below:
 ### User Email: somi.guptaa@gmail.com
 
 ## Screenshot of the deployed application
-![Note Taker](./assets/images/application-screenshot_1.jpg?raw=true)
-![Note Editor](./assets/images/application-screenshot_2.jpg?raw=true)
+![Note Taker](./assets/images/application_screenshot_2.jpg?raw=true)
+![Note Editor](./assets/images/application_screenshot_1.jpg?raw=true)
 
 
 ---    
