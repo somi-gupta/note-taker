@@ -33,6 +33,10 @@ Note Taker
 - https://shields.io/. 
 - https://expressjs.com/
 
+
+## Deployed application link
+Please navigate to the application via: https://thawing-springs-02058.herokuapp.com/
+
 ## License
 This project is licensed under the MIT license. https://opensource.org/licenses/MIT
 
